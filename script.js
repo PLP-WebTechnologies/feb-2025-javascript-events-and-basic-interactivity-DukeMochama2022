@@ -47,7 +47,7 @@ document.addEventListener("DOMContentLoaded", () => {
       modal.style.display='block'
     }
     
-    //delays the modal for some seconds before irs submitted
+    //delays the modal for some seconds before its submitted
     setTimeout(()=>{
         modal.style.display='none'
         form.reset();
